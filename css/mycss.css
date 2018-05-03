@@ -1,0 +1,74 @@
+.electronDivImage {
+}
+.ionicDivImage {
+}
+.birthdayDivImage {
+}
+.staticDivImage {
+}
+.dynamiqueDivImage {
+}
+.FrediDivImage {
+}
+.FredimobileDivImage {
+}
+
+.electronImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.ionicImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.birthdayImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.staticImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.dynamiqueImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.FrediImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 86%;
+}
+.FredimobileImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.navbar-custom {
+	 border-width: 0px;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    background: rgba(255, 144, 0, 0.9);
+}
+
+.myA{
+	color: inherit;
+}
+
+.myA:hover {
+	color: 	#778899;
+}
